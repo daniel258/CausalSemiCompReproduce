@@ -1,7 +1,7 @@
 ### This Script create the illustrative bounds plots given in
 ### Figure 1 of Nevo & Gorfine (2020+)
 
-load("~/Numerical Exact Examples/Bounds.RData")
+load("~/Numerical Exact Examples/NonParametric/Bounds.RData")
 
 df.all.diff.scen2$U.bound.adj <- NA
 df.all.diff.scen2$L.bound.adj <- NA
