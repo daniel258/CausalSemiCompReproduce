@@ -1,7 +1,7 @@
 ####################################################################################
 ####################################################################################
 # CausalSemiComp
-# Calculate simulation censoring rates to achieve desired censoring rates.
+# Calculate parameters of the censoring distribution to achieve desired censoring rates.
 ####################################################################################
 rm(list = ls())
 library(dplyr)
