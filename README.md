@@ -1,5 +1,5 @@
 # CausalSemiCompReproduce
-Reproducibility of numerical examples of simulation results associated with the paper "Causal inference for semi-competing risks data" by Nevo and Gorfine (2021+, Biostatistics). Comments and suggestions are welcomed and can be sent to 
+Reproducibility of numerical examples and of simulation results associated with the paper "Causal inference for semi-competing risks data" by Nevo and Gorfine (2021+, Biostatistics). Comments and suggestions are welcomed and can be sent to 
 danielnevo :panda_face: @ :panda_face: gmail.com (remove the pandas).
 
 This repository includes two main parts
