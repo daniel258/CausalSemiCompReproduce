@@ -7,7 +7,7 @@ This repository includes two main parts
 2. Exact numerical examples for large sample (Figures 2 & 3 in the paper).
 
 ## Simulations
-The two revant folders are **Nonparametric** and **Semiparametric**. Within each folder there are three sub-folders and one script that was used for designing the chosen values.
+The two relevant folders are **Nonparametric** and **Semiparametric**. Within each folder there are three sub-folders and one script that was used for designing the chosen values.
 
 1. **R**: Includes the scripts that were used to run the code. The code was ran on a cluster, and each simulation setup (different parameters and censoring rates) was written in a different **R** script. To speed up the simulations, ten scripts were ran simultaneously, and the code also uses parallel computing to run the bootstrap.
 
@@ -17,5 +17,5 @@ The two revant folders are **Nonparametric** and **Semiparametric**. Within each
 
 ## Exact numerical examples 
 
-Recreating Figures 2 and 3 in the papers. The folders include both simulation of very very very large populations, and then calculating the true causal effects in these popualtions, before creating the relvant figures.
+Recreating Figures 2 and 3 in the papers. The folders include both simulation of very very very large populations, and then calculating the true causal effects in these populations, before creating the relevant figures.
 
